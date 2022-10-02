@@ -1,4 +1,4 @@
-# Remote car controll app for Raspberry Pi
+# Remote car control app for Raspberry Pi
 
 This is mobile application running on android OS for remote control Raspberry Pi microcomputer with collector motor and servo motor connected to it. 
 
